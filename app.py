@@ -5,8 +5,6 @@ import time
 import app1
 import app2
 import app3
-import app4
-import app5
 img = Image.open('icon2.png')
 img1 = Image.open('icon3.png')
 img2 = Image.open('icon1.png')
