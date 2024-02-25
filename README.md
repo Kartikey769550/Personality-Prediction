@@ -1,2 +1,2 @@
 # personality-prediction
-https://share.streamlit.io/manish1986451/personality-prediction/main/app.py
+<a href = "https://personality-prediction-fernn7ukdh29moqdysgcu7.streamlit.app/"><b> Click Here </b></a>
