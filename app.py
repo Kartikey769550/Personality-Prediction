@@ -16,10 +16,8 @@ st.markdown(hide_stream_lit_style, unsafe_allow_html=True)
 
 PAGES = {
     "Home": app1,
-    #"Analysing Using Supervised": app2,
-    #"Analysing Using UnSupervised": app4,
-    "Personality-Prediction through Supervised": app3,
-    "Personality-Prediction through UnSupervised": app5
+    "Personality-Prediction through Supervised": app2,
+    "Personality-Prediction through UnSupervised": app3
 
 }
 st.sidebar.image(img1, width=260)
