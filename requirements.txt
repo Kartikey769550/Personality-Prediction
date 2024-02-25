@@ -9,5 +9,3 @@ pandas==1.2.3
 Pillow==8.2.0
 scikit_learn==0.24.2
 click<=8.0.4
-
-C:\Users\ME\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\Scripts
