@@ -14,9 +14,6 @@ print('Number of participants after eliminating missing values: ', len(df))
 
 print(df)
 
-
-
-
 #Scatter Plot
 plt.scatter(df['Age'], df['openness'])
 plt.title("Scatter Plot")
